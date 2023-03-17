@@ -1,0 +1,89 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    height: 123px;
+    width:auto;
+    color:rgb(0, 0, 0)
+   
+} 
+
+#mobilenet_img{
+    height: 125px;
+    width:auto;
+}
+
+
+.bottom1{
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+    background-color: pink;
+    
+}
+
+
+.bottom{
+    color: rgb(5, 5, 5);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(59, 59, 59);
+    height:20px
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: purple;
+}
+
+#output{
+    color:black
+}
+#answer{
+    color:red
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+    color:white
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+}
+span{
+    color: red;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(127, 156, 250);
+}
+h4{
+    text-align: center;
+}
